@@ -13,7 +13,3 @@ float null_c(float a, float b) {
 
 
 
-float multiply(float a, float b) {
-    return a * b;
-}
-
