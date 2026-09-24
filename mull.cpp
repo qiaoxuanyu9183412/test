@@ -1,0 +1,25 @@
+float null_a(float a, float b) {
+    return a + b;
+}
+
+float null_b(float a, float b) {
+    return a + b;
+}
+
+
+float null_c(float a, float b) {
+    return a + b;
+}
+
+
+float null_d(float a, float b) {
+    return a + b;
+}
+
+float multiply(float a, float b) {
+    return a * b;
+}
+
+float subtract(float a, float b) {
+    return a - b;
+}
