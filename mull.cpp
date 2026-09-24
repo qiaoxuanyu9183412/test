@@ -7,7 +7,7 @@ float null_b(float a, float b) {
 }
 
 
-
+wwwzzz
 
 float multiply(float a, float b) {
     return a * b;
